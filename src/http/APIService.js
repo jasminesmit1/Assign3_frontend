@@ -1,6 +1,8 @@
 /* eslint-disable */
 import axios from 'axios';
-const API_URL = 'jasmine-efs-back.herokuapp.com';/*'http://localhost:8000'; */ /* http://groyce.pythonanywhere.com/ or http://localhost:8000 */
+const API_URL = 'https://jasmine-efs-back.herokuapp.com/';
+
+/*'http://localhost:8000'; */ /* http://groyce.pythonanywhere.com/ or http://localhost:8000 */
 
 export class APIService {
   constructor() {
