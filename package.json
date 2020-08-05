@@ -67,7 +67,6 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ],
+  ]
 
-  "heroku-postbuild": "webpack --config webpack.prod.js"
 }
